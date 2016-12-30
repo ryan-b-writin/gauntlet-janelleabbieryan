@@ -1,3 +1,5 @@
+View this page at: http://www.midnightthunder.net/projects/gauntlet/index.html
+
 #Gauntlet game
 
 Time to use protypal inheritance to build a game.
